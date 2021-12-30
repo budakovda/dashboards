@@ -1365,5 +1365,3 @@ Plan: 0 to add, 1 to change, 0 to destroy.
 Note: You didn't use the -out option to save this plan, so Terraform can't
 guarantee to take exactly these actions if you run "terraform apply" now.
 ```
-
-</details>
